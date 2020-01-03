@@ -20,6 +20,5 @@
  - [Lea Verou](https://lea.verou.me/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzI3NDMzMzUsMTIyODE2OTI3NCwxNz
-A1MzgwMjYzLDEwNTIzOTIxMTVdfQ==
+eyJoaXN0b3J5IjpbLTEzNzI3NDMzMzVdfQ==
 -->
