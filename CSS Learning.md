@@ -24,6 +24,10 @@
 
 ## CSS
 
+### Talks & Tutorials
+
+- [Print Stylesheets](https://www.smashingmagazine.com/2018/05/print-stylesheets-in-2018/)
+
 ### CSS Tools
 
 - [CSS Grid Generator](https://cssgrid-generator.netlify.com/)
@@ -39,6 +43,6 @@
  - [Lea Verou](https://lea.verou.me/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MDc2Nzg0MywxNzA1MzgwMjYzLDEwNT
+eyJoaXN0b3J5IjpbMTIyODE2OTI3NCwxNzA1MzgwMjYzLDEwNT
 IzOTIxMTVdfQ==
 -->
