@@ -3,6 +3,7 @@
 ### Talks & Tutorials
 
 - [Print Stylesheets](https://www.smashingmagazine.com/2018/05/print-stylesheets-in-2018/)
+- [CSS Grid: Moving From CSS Frameworks To CSS Grid](https://youtu.be/paMmgo4MhQ8)
 
 ### CSS Tools
 
@@ -20,5 +21,5 @@
  - [Lea Verou](https://lea.verou.me/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzI3NDMzMzVdfQ==
+eyJoaXN0b3J5IjpbNTA0NjY5NDE0LC0xMzcyNzQzMzM1XX0=
 -->
