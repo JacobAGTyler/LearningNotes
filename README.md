@@ -14,6 +14,9 @@ Created using [Stackedit.io](https://stackedit.io/app#)
 
 ### Data & APIs
 - [GraphQL](/GraphQL.md)
+
+### Computer Science
+- [Quantum Computing](/QuantumComputing.md(
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDY3OTYzNV19
+eyJoaXN0b3J5IjpbNTkzMzMzMzc2XX0=
 -->
