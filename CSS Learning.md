@@ -19,6 +19,7 @@
 
 - [SVG OMG Image Optimiser](https://jakearchibald.github.io/svgomg/)
 - [JPNG.svg Transparent JPEG Converter](https://codepen.io/shshaw/pen/LVKEdv)
+- [Mermaid UML Syntax](https://mermaid-js.github.io/mermaid/#/)
 
 ## CSS
 
@@ -167,5 +168,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MjM5MjExNV19
+eyJoaXN0b3J5IjpbMTcwNTM4MDI2MywxMDUyMzkyMTE1XX0=
 -->
