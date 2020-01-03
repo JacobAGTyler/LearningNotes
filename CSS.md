@@ -4,6 +4,7 @@
 
 - [Print Stylesheets](https://www.smashingmagazine.com/2018/05/print-stylesheets-in-2018/)
 - [CSS Grid: Moving From CSS Frameworks To CSS Grid](https://youtu.be/paMmgo4MhQ8)
+- [CSS Grid Changes EVERYTHING](https://youtu.be/7kVeCqQCxlk)
 
 ### CSS Tools
 
@@ -21,5 +22,5 @@
  - [Lea Verou](https://lea.verou.me/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA0NjY5NDE0LC0xMzcyNzQzMzM1XX0=
+eyJoaXN0b3J5IjpbMTQ1NDE1NTg5MiwtMTM3Mjc0MzMzNV19
 -->
