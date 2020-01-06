@@ -5,9 +5,6 @@
 
 ### Design Articles
 - [Space in Design Sytems](https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62)
-
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzQ4MTk0OTgsLTE4MTU3NjQwMjhdfQ
-==
+eyJoaXN0b3J5IjpbMjU1MDUzMTAwLC0xODE1NzY0MDI4XX0=
 -->
