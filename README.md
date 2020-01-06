@@ -15,10 +15,10 @@ Created using [Stackedit.io](https://stackedit.io/app#)
 
 ### Data & APIs
 - [GraphQL](/GraphQL.md)
-- [Web Networking](/Web%20Networking)
+- [Web Networking](/WebNetworking.md)
 
 ### Computer Science
 - [Quantum Computing](/QuantumComputing.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDk5OTYyNDFdfQ==
+eyJoaXN0b3J5IjpbLTM1OTMxNzU3OV19
 -->
